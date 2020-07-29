@@ -10,19 +10,20 @@ i will do some good Features
 here , i mean this Server Side  .
 i will do some good Features .
 
-- [] RESTfull Api.
-- [] Doc for RESTfull Api.
-- [] Websocket. 
-- [] Doc for Websocket.
+- [ ] RESTfull Api.
+- [ ] Doc for RESTfull Api.
+- [ ] Websocket. 
+- [ ] Doc for Websocket.
+- [ ] E-mails Support Controller.
 
 
 ### client 
 client Side , i do sdk for javascript 
 
-- [] puer Javascript SDK.
-- []  Vuejs Componets  .
-- [] Doc for puer Javascript SDK.
-- [] Doc for Vuejs.
+- [ ] puer Javascript SDK.
+- [ ]  Vuejs Componets  .
+- [ ] Doc for puer Javascript SDK.
+- [ ] Doc for Vuejs.
 
 ## Screenshots 
 
